@@ -12,7 +12,8 @@ Environmental sound classification is vital for surveillance, smart cities, wild
 Manual labeling is expensive and time-consuming.
 Compare Active Learning (iterative, query-driven labelling) and Passive Learning (fixed labeled dataset) for sound classification.
 Recommend the optimal method based on the data and requirements.
-![image](https://github.com/user-attachments/assets/d68efb98-fac6-4251-a9ec-067c6ced5dc3)
+![image](https://github.com/user-attachments/assets/19fdfb42-14a6-4afc-9a0c-72ec79b5a718)
+
 
 
 
